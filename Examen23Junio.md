@@ -1,18 +1,13 @@
 #### Examen Cambio Global 1ª Convocatoria - 23 junio 2019
 
 ***
-
 #### Apellidos:
 #### Nombre:  
 
 ***
-
 #### Instrucciones: Todas las preguntas tienen la misma puntuación. En las preguntas tipo test solo hay una respuesta correcta que hay que señalar con un círculo o flecha. No se permite el uso de bolígrafo de color rojo   
 
 ***
- 
-
-
 #### 1. ¿Cómo contribuye el vapor de agua al cambio climático? ¿Es un agente de forzamiento del cambio climático? ¿Cuales son las diferencias fundamentales entre el comportamiento del vapor de agua y el del CO2?  
 &nbsp;
 &nbsp;
@@ -225,9 +220,3 @@
 3. Que se produzca en menos de 10.000 años y se extingan el 90% de las especies
 2. Que se produzca en menos de 100.000 años y se extingan el 80% de las especies
 4. Que se produzca en menos de 2 millones de años y se extingan el 75% de las especies
-
- 
-
-
-
-
